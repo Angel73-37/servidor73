@@ -37,3 +37,106 @@
 [17:39:27] [Server thread/INFO]: Made papuangel a server operator
 [17:40:10] [Server thread/INFO]: papuangel lost connection: Disconnected
 [17:40:10] [Server thread/INFO]: papuangel left the game
+[17:45:19] [Server thread/INFO]: papuangel[/127.166.247.164:34235] logged in with entity id 410 at (-85.82512573887776, 69.0, 115.91564875392179)
+[17:45:19] [Server thread/INFO]: papuangel joined the game
+[17:45:19] [Server thread/INFO]: papuangel lost connection: Disconnected
+[17:45:19] [Server thread/INFO]: papuangel left the game
+[17:45:28] [Server thread/INFO]: papuangel[/127.166.247.164:37875] logged in with entity id 487 at (-85.82512573887776, 69.0, 115.91564875392179)
+[17:45:28] [Server thread/INFO]: papuangel joined the game
+[17:45:28] [Server thread/INFO]: papuangel lost connection: Disconnected
+[17:45:28] [Server thread/INFO]: papuangel left the game
+[17:53:22] [Server thread/INFO]: papuangel[/127.166.247.164:49739] logged in with entity id 560 at (-85.82512573887776, 69.0, 115.91564875392179)
+[17:53:22] [Server thread/INFO]: papuangel joined the game
+[17:53:23] [Server thread/INFO]: papuangel lost connection: Disconnected
+[17:53:23] [Server thread/INFO]: papuangel left the game
+[17:53:48] [Server thread/INFO]: papuangel[/127.166.247.164:50765] logged in with entity id 637 at (-85.82512573887776, 69.0, 115.91564875392179)
+[17:53:48] [Server thread/INFO]: papuangel joined the game
+[17:53:49] [Server thread/INFO]: papuangel lost connection: Disconnected
+[17:53:49] [Server thread/INFO]: papuangel left the game
+[17:54:10] [Server thread/INFO]: papuangel[/127.166.247.164:39931] logged in with entity id 715 at (-85.5, 69.0, 134.5)
+[17:54:10] [Server thread/INFO]: papuangel joined the game
+[17:54:10] [Server thread/INFO]: papuangel lost connection: Disconnected
+[17:54:10] [Server thread/INFO]: papuangel left the game
+[17:54:10] [Server thread/WARN]: Failed to save player data for papuangel
+[17:54:56] [Server thread/ERROR]: Could not save data net.minecraft.class_3767@56cb04e5
+java.nio.file.NoSuchFileException: ./world/data/raids.dat
+	at java.base/sun.nio.fs.UnixException.translateToIOException(UnixException.java:92) ~[?:?]
+	at java.base/sun.nio.fs.UnixException.rethrowAsIOException(UnixException.java:106) ~[?:?]
+	at java.base/sun.nio.fs.UnixException.rethrowAsIOException(UnixException.java:111) ~[?:?]
+	at java.base/sun.nio.fs.UnixFileSystemProvider.newByteChannel(UnixFileSystemProvider.java:261) ~[?:?]
+	at java.base/java.nio.file.spi.FileSystemProvider.newOutputStream(FileSystemProvider.java:482) ~[?:?]
+	at java.base/java.nio.file.Files.newOutputStream(Files.java:227) ~[?:?]
+	at net.minecraft.class_2507.method_30614(class_2507.java:71) ~[server-intermediary.jar:?]
+	at net.minecraft.class_18.method_17919(class_18.java:46) ~[server-intermediary.jar:?]
+	at net.minecraft.class_26.method_32384(class_26.java:127) ~[server-intermediary.jar:?]
+	at java.base/java.util.HashMap.forEach(HashMap.java:1429) ~[?:?]
+	at net.minecraft.class_26.method_125(class_26.java:125) ~[server-intermediary.jar:?]
+	at net.minecraft.class_3218.method_14188(class_3218.java:833) ~[server-intermediary.jar:?]
+	at net.minecraft.class_3218.method_14176(class_3218.java:815) ~[server-intermediary.jar:?]
+	at net.minecraft.server.MinecraftServer.method_3723(MinecraftServer.java:556) ~[server-intermediary.jar:?]
+	at net.minecraft.server.MinecraftServer.method_39218(MinecraftServer.java:580) ~[server-intermediary.jar:?]
+	at net.minecraft.server.MinecraftServer.method_3748(MinecraftServer.java:924) ~[server-intermediary.jar:?]
+	at net.minecraft.server.MinecraftServer.method_29741(MinecraftServer.java:697) ~[server-intermediary.jar:?]
+	at net.minecraft.server.MinecraftServer.method_29739(MinecraftServer.java:281) ~[server-intermediary.jar:?]
+	at java.base/java.lang.Thread.run(Thread.java:1583) [?:?]
+[17:54:56] [Server thread/ERROR]: Could not save data net.minecraft.class_3767@2ec01b3f
+java.nio.file.NoSuchFileException: ./world/DIM1/data/raids_end.dat
+	at java.base/sun.nio.fs.UnixException.translateToIOException(UnixException.java:92) ~[?:?]
+	at java.base/sun.nio.fs.UnixException.rethrowAsIOException(UnixException.java:106) ~[?:?]
+	at java.base/sun.nio.fs.UnixException.rethrowAsIOException(UnixException.java:111) ~[?:?]
+	at java.base/sun.nio.fs.UnixFileSystemProvider.newByteChannel(UnixFileSystemProvider.java:261) ~[?:?]
+	at java.base/java.nio.file.spi.FileSystemProvider.newOutputStream(FileSystemProvider.java:482) ~[?:?]
+	at java.base/java.nio.file.Files.newOutputStream(Files.java:227) ~[?:?]
+	at net.minecraft.class_2507.method_30614(class_2507.java:71) ~[server-intermediary.jar:?]
+	at net.minecraft.class_18.method_17919(class_18.java:46) ~[server-intermediary.jar:?]
+	at net.minecraft.class_26.method_32384(class_26.java:127) ~[server-intermediary.jar:?]
+	at java.base/java.util.HashMap.forEach(HashMap.java:1429) ~[?:?]
+	at net.minecraft.class_26.method_125(class_26.java:125) ~[server-intermediary.jar:?]
+	at net.minecraft.class_3218.method_14188(class_3218.java:833) ~[server-intermediary.jar:?]
+	at net.minecraft.class_3218.method_14176(class_3218.java:815) ~[server-intermediary.jar:?]
+	at net.minecraft.server.MinecraftServer.method_3723(MinecraftServer.java:556) ~[server-intermediary.jar:?]
+	at net.minecraft.server.MinecraftServer.method_39218(MinecraftServer.java:580) ~[server-intermediary.jar:?]
+	at net.minecraft.server.MinecraftServer.method_3748(MinecraftServer.java:924) ~[server-intermediary.jar:?]
+	at net.minecraft.server.MinecraftServer.method_29741(MinecraftServer.java:697) ~[server-intermediary.jar:?]
+	at net.minecraft.server.MinecraftServer.method_29739(MinecraftServer.java:281) ~[server-intermediary.jar:?]
+	at java.base/java.lang.Thread.run(Thread.java:1583) [?:?]
+[17:54:56] [Server thread/ERROR]: Could not save data net.minecraft.class_3767@1e35b9d1
+java.nio.file.NoSuchFileException: ./world/DIM-1/data/raids.dat
+	at java.base/sun.nio.fs.UnixException.translateToIOException(UnixException.java:92) ~[?:?]
+	at java.base/sun.nio.fs.UnixException.rethrowAsIOException(UnixException.java:106) ~[?:?]
+	at java.base/sun.nio.fs.UnixException.rethrowAsIOException(UnixException.java:111) ~[?:?]
+	at java.base/sun.nio.fs.UnixFileSystemProvider.newByteChannel(UnixFileSystemProvider.java:261) ~[?:?]
+	at java.base/java.nio.file.spi.FileSystemProvider.newOutputStream(FileSystemProvider.java:482) ~[?:?]
+	at java.base/java.nio.file.Files.newOutputStream(Files.java:227) ~[?:?]
+	at net.minecraft.class_2507.method_30614(class_2507.java:71) ~[server-intermediary.jar:?]
+	at net.minecraft.class_18.method_17919(class_18.java:46) ~[server-intermediary.jar:?]
+	at net.minecraft.class_26.method_32384(class_26.java:127) ~[server-intermediary.jar:?]
+	at java.base/java.util.HashMap.forEach(HashMap.java:1429) ~[?:?]
+	at net.minecraft.class_26.method_125(class_26.java:125) ~[server-intermediary.jar:?]
+	at net.minecraft.class_3218.method_14188(class_3218.java:833) ~[server-intermediary.jar:?]
+	at net.minecraft.class_3218.method_14176(class_3218.java:815) ~[server-intermediary.jar:?]
+	at net.minecraft.server.MinecraftServer.method_3723(MinecraftServer.java:556) ~[server-intermediary.jar:?]
+	at net.minecraft.server.MinecraftServer.method_39218(MinecraftServer.java:580) ~[server-intermediary.jar:?]
+	at net.minecraft.server.MinecraftServer.method_3748(MinecraftServer.java:924) ~[server-intermediary.jar:?]
+	at net.minecraft.server.MinecraftServer.method_29741(MinecraftServer.java:697) ~[server-intermediary.jar:?]
+	at net.minecraft.server.MinecraftServer.method_29739(MinecraftServer.java:281) ~[server-intermediary.jar:?]
+	at java.base/java.lang.Thread.run(Thread.java:1583) [?:?]
+[17:54:56] [Server thread/ERROR]: Failed to save level ./world
+java.nio.file.NoSuchFileException: ./world/level17275471504007161852.dat
+	at java.base/sun.nio.fs.UnixException.translateToIOException(UnixException.java:92) ~[?:?]
+	at java.base/sun.nio.fs.UnixException.rethrowAsIOException(UnixException.java:106) ~[?:?]
+	at java.base/sun.nio.fs.UnixException.rethrowAsIOException(UnixException.java:111) ~[?:?]
+	at java.base/sun.nio.fs.UnixFileSystemProvider.newByteChannel(UnixFileSystemProvider.java:261) ~[?:?]
+	at java.base/java.nio.file.Files.newByteChannel(Files.java:379) ~[?:?]
+	at java.base/java.nio.file.Files.createFile(Files.java:657) ~[?:?]
+	at java.base/java.nio.file.TempFileHelper.create(TempFileHelper.java:136) ~[?:?]
+	at java.base/java.nio.file.TempFileHelper.createTempFile(TempFileHelper.java:159) ~[?:?]
+	at java.base/java.nio.file.Files.createTempFile(Files.java:878) ~[?:?]
+	at net.minecraft.class_32$class_5143.method_54538(class_32.java:463) ~[server-intermediary.jar:?]
+	at net.minecraft.class_32$class_5143.method_27426(class_32.java:457) ~[server-intermediary.jar:?]
+	at net.minecraft.server.MinecraftServer.method_3723(MinecraftServer.java:563) ~[server-intermediary.jar:?]
+	at net.minecraft.server.MinecraftServer.method_39218(MinecraftServer.java:580) ~[server-intermediary.jar:?]
+	at net.minecraft.server.MinecraftServer.method_3748(MinecraftServer.java:924) ~[server-intermediary.jar:?]
+	at net.minecraft.server.MinecraftServer.method_29741(MinecraftServer.java:697) ~[server-intermediary.jar:?]
+	at net.minecraft.server.MinecraftServer.method_29739(MinecraftServer.java:281) ~[server-intermediary.jar:?]
+	at java.base/java.lang.Thread.run(Thread.java:1583) [?:?]
